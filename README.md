@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tommy-pea
-- 👀 I’m interested in operations research, linear programming, integer programming, heuristics, and neural networks.
+- 👀 I’m interested in operations research, linear programming, integer programming, heuristics, and neural networks. I also like music.
 - 🌱 I’m currently learning how to use GitHub lol
 - 💞️ I’m looking to collaborate on nothing really, just personal projects, learning, and development. If it pays though... being a student is tough.
 - 📫 How to reach me ... does GitHub have a direct message?
