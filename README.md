@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tommy-pea
-- 👀 I’m interested in operations research, linear programming, integer programming, heuristics, and neural networks. I also like music.
+- 👋 Hi, I’m Thomas
+- 👀 I’m interested in operations research, linear programming, integer programming, heuristics, and neural networks. I'm also a violinist and intersted in music.
 - 💞️ I’m looking to try some personal projects, learn, and develop.
 
 <!---
