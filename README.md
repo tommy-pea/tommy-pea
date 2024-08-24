@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thomas
+- 👋 Hi, I’m Tommy P.
 - 👀 I’m interested in operations research, linear programming, integer programming, heuristics, and neural networks. I'm also a violinist and intersted in music.
 - 💞️ I’m looking to try some personal projects, learn, and develop.
 
